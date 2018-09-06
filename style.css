@@ -1,0 +1,79 @@
+ .red  
+{
+    color: red;
+}
+.blue 
+{
+    color: blue;
+}
+.violet
+{
+    color: violet;
+}
+.green 
+{
+     color: green;
+}
+#sec1
+{
+    background-color: lightsalmon;
+}
+        
+        
+.kwadrat
+{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.kwa1, .kwa2, .kwa3, .kwa4
+{
+    border-style: solid;
+    border-color: aqua; 
+}
+.kwa1
+{
+           
+    background-color: red;
+}
+                
+ 
+.kwa2
+{
+            
+    background-color: blueviolet;
+
+}
+.kwa3
+{
+     background-color: greenyellow;
+     border-style: solid;
+     border-color: aqua;           
+}
+        
+.kwa4
+{
+     background-color: violet;
+     border-style: solid;
+     border-color: aqua;           
+}
+.kwadrat5, .kwadrat6, .kwadrat7
+{
+     background-color: black;
+     height: 80px;
+     width: 80px;
+     border-style: solid;
+     border-color: aqua;
+}
+
+.submit
+{
+     background-color: darkgray;
+     height: 30px;
+     width: 100px;
+     border-style: double;
+     border-color: white;
+     margin-right: 100em
+}
